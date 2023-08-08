@@ -2,7 +2,7 @@
 ## Web Scraping
   It is the process of parsing and extracting data from websites. We can scrape data using different tools like Beautiful Soup,Pandas etc.,
 ## Steps :
-  # Here’s a summary of the steps we have followed to build Amazon Web scraper:
+  ### Here’s a summary of the steps we have followed to build Amazon Web scraper:
   1. Firstly, we outlined, What data do we need? What should be the format of that data? What does each column represent?
   2. We imported all the required Python libraries like Beautiful Soup, Requests, Pandas and numpy.
   3. We scraped Title, Price,Rating, Review count and availabity by parsing the HTML content using beatuiful soup and created functions.
